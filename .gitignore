@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.env
+.venv/
+venv/
+ENV/
+
+# Node.js
+node_modules/
+.npm/
+.vite/
+dist/
+build/
+
+# Docker
+*.log
+.docker/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local data
+*.sqlite3
+*.db
+coverage/
